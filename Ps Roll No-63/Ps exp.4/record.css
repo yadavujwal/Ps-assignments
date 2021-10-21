@@ -1,0 +1,25 @@
+Record { 
+    display:table; 
+    font-size:18px; 
+    margin:8px;
+    padding: 1px; 
+    font-family: Verdana; 
+    width: 75%;
+    margin: 5% auto;
+} 
+data{ 
+    display:table-row; 
+    text-align:center; 
+    border: 1px solid silver; 
+    padding:11px; 
+    background-color:whitesmoke; 
+} 
+data-cell,data-header { 
+    display: table-cell; 
+    border: solid 1px; 
+    padding:11px; 
+    width: 25%;
+}
+firstTag{
+    font-size:40px; 	
+}

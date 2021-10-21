@@ -1,0 +1,25 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+  
+    
+    justify-content: space-around;
+}
+.square{
+    border: 1px solid black;
+    width: 25vw;
+    height: 25vh;
+    margin: 10px;
+}
+
+.mole{
+    background:url('mole.jpg');
+    background-size: 100% 100%;
+
+}
+
+.hammer{
+    height: 25vh;
+    width: 25vw;
+}
+

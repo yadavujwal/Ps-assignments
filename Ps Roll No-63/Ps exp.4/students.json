@@ -1,0 +1,39 @@
+ {
+  "Students": [{
+  "FirstName": "Ujwal"
+  "LastName": "Vishwakarma",
+  "ID" : 1,
+  "Age": 20,
+  "Branch" :	"Computer",
+  "Division" : "C",
+  "Address":
+			  {
+  "streetAddress": "Mira-road",
+  "city": "Thane",
+  "state": "Mharashtra",
+  "postalCode": "401107"
+  },
+ 
+ },
+ "FirstName": "Aniket"
+  "LastName": "Vishwakarma"
+  "ID" : 2,
+  "Age": 19,
+  "Branch" :	"Computer",
+  "Division" : "C",
+  "Address":
+			  {
+  "streetAddress": "Bhayander",
+  "city": "Thane",
+  "state": "Mharashtra",
+  "postalCode": "401110"
+  },
+ 
+ }
+          
+]
+}
+
+
+
+

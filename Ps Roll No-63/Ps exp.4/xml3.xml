@@ -1,0 +1,33 @@
+ <! -- uncomment this for exp 4 <?xml-stylesheet type = "text/xsl" href = "BreakfastMenu.xsl"?> -->
+<breakfast_menu>
+<food>
+<name>Baingan Ka Bharta</name>
+<price>153 Rs.</price>
+<description>Very Nice Sabzi, famous in town</description>
+<calories>650</calories>
+</food>
+<food>
+<name>Chole Bhatore</name>
+<price>200 Rs.</price>
+<description>Light waffles covered with papdi and whipped cream</description>
+<calories>700</calories>
+</food>
+<food>
+<name>Berry-Berry Belgian Waffles</name>
+<price>195 Rs.</price>
+<description>Light Belgian waffles covered with an assortment of fresh berries and whipped cream</description>
+<calories>300</calories>
+</food>
+<food>
+<name>French Toast</name>
+<price>450 Rs.</price>
+<description>Thick slices made from our homemade sourdough bread</description>
+<calories>600</calories>
+</food>
+<food>
+<name>Homestyle Lunch</name>
+<price>695 Rs.</price>
+<description>Two eggs, bacon or sausage, toast, and our ever-popular hash browns</description>
+<calories>950</calories>
+</food>
+</breakfast_menu>

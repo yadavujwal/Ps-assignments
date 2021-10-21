@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!-- uncomment for part 2 <?xml-stylesheet type="text/css" href="record.css" ?> -->
+
+
+
+ <Record>
+<firstTag> Student_Record
+</firstTag>
+<data> 
+<data-header> StudentId </data-header> 
+<data-header> Name </data-header> 
+<data-header> surname </data-header> 
+<data-header> Course </data-header> 
+</data>
+
+<data> 
+<data-cell> 1 </data-cell> 
+<data-cell> Ujwal</data-cell>
+<data-cell> Yadav</data-cell> 
+<data-cell> CSE</data-cell> 
+</data>
+
+<data> 
+<data-cell> 2 </data-cell> 
+<data-cell> Ramesh</data-cell>
+<data-cell> Vishwa</data-cell> 
+<data-cell> CSE</data-cell>
+</data>
+
+<data> 
+<data-cell> 3 </data-cell> 
+<data-cell> Bhimsen </data-cell>
+<data-cell> Tiwari</data-cell> 
+<data-cell> Mech</data-cell>
+</data>
+
+<data> 
+<data-cell> 4 </data-cell> 
+<data-cell> Ankit</data-cell>
+<data-cell> Yadav </data-cell> 
+<data-cell> CSE</data-cell>
+</data>
+
+<data> 
+<data-cell> 5 </data-cell> 
+<data-cell> Anand</data-cell>
+<data-cell> Shah </data-cell> 
+<data-cell> CSE</data-cell>
+</data>
+
+<data> 
+<data-cell> 6 </data-cell> 
+<data-cell> Ramesh</data-cell>
+<data-cell> Vishwa</data-cell> 
+<data-cell> CSE</data-cell>
+</data>
+
+<data> 
+<data-cell> 7 </data-cell> 
+<data-cell> Virat </data-cell>
+<data-cell> Tiwari</data-cell> 
+<data-cell> Elex </data-cell>
+</data>
+
+<data> 
+<data-cell> 8 </data-cell> 
+<data-cell> Arnold </data-cell>
+<data-cell> Sharma</data-cell> 
+<data-cell> Extc </data-cell>
+</data>
+
+<data> 
+<data-cell> 9 </data-cell> 
+<data-cell> Sachin </data-cell>
+<data-cell> Singh </data-cell> 
+<data-cell> Etrx</data-cell>
+</data>
+ </Record>
+
+
+
